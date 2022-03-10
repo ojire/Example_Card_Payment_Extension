@@ -1,0 +1,15 @@
+{
+  "name": "ojire_payment_extension",
+  "version": "1.0.0",
+  "description": "Ojire Payment Extension",
+  "main": "index.js",
+  "author": "Aryo Karbhawono",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "unirest": "^0.6.0"
+  }
+}
